@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API code.
+Source Code for SSYSTEAM REST API Test
